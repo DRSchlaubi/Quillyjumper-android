@@ -1,0 +1,7 @@
+[submodule "QuillyJumper"]
+	path = QuillyJumper
+	url = ../QuillyJumper/
+[submodule "game"]
+	path = game
+	url = https://github.com/DRSchlaubi/QuillyJumper.git
+	branch = feature/gradle
